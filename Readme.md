@@ -6,8 +6,7 @@ El propósito de la creación de este sitio web es mostrar el portafolio de proy
 
 Incluye las secciones: sobre mí, proyectos, experiencia.
 
-Sobre mí:
-![Alt text](assets/image.png)
+
 
 # Tecnologías
 
